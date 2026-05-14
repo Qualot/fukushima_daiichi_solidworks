@@ -14,3 +14,10 @@ https://fdada.info/home/vis_3d/unit1_2_3d/
 
 ### Energy encyclopedia
 https://www.energyencyclopedia.com/en/online-3d-models/bwr-mark-i-fukushima-19
+
+
+## License
+
+This project is licensed under the CC BY 4.0 License.
+
+https://creativecommons.org/licenses/by/4.0/

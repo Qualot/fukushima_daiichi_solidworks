@@ -5,12 +5,12 @@ generic CAD model of Fukushima-Daiichi Nuclear Power Station (FDNPS) based on pu
 
 ## References
 ### Basic data of Fukushima Daiichi Nuclear Power Plant (Summary)
-https://irid.or.jp/fd/page_id/237/lang/ja/
+https://irid.or.jp/fd/page_id/237/
 
 ### Information Portal for the Fukushima Daiichi Accident Analysis and Decommissioning Activities
-https://fdada.info/home/vis_3d/unit1_3d/
+https://fdada.info/en/home2/vis_3d-en/unit1_3d-en/
 
-https://fdada.info/home/vis_3d/unit1_2_3d/
+https://fdada.info/en/home2/vis_3d-en/unit1_2_3d-en/
 
 ### Energy encyclopedia
 https://www.energyencyclopedia.com/en/online-3d-models/bwr-mark-i-fukushima-19

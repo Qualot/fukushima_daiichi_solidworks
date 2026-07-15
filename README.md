@@ -3,6 +3,16 @@ generic CAD model of Fukushima-Daiichi Nuclear Power Station (FDNPS) based on pu
 ![thumbnail](https://raw.githubusercontent.com/Qualot/fukushima_daiichi_solidworks/main/media/thumbnail.png)
 
 
+## TODO
+
+- [ ] Main pipes
+- [ ] Biological shield
+- [ ] Support beams of biological shield
+- [ ] Scaffold of S/C (Suppression Chamber)
+- [ ] Catwalks
+- [ ] Shield plug
+- [ ] Adjust height of each floor
+
 ## References
 ### Basic data of Fukushima Daiichi Nuclear Power Plant (Summary)
 https://irid.or.jp/fd/page_id/237/
